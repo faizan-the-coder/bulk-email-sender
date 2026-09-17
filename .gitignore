@@ -18,3 +18,8 @@ node_modules/
 env/
 .vscode/
 *.xlsx
+
+# Runtime files written by the app - contain SMTP credentials / licence data
+email_profiles.json
+selected_profile.json
+license.dat
